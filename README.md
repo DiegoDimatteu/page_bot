@@ -1,5 +1,5 @@
 ==================================================
-# PROJETO EM DESENVOLVIMENTO
+# PROJETO DE UMA PAGE PARA UM BOT DE DISCORD
 
 ==================================================
 ## Treinamento para desenvolvimento do meu currículo pessoal
